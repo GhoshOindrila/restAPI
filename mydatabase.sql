@@ -3,7 +3,7 @@ CREATE DATABASE /*!32312 IF NOT EXISTS*/`restaurants` /*!40100 DEFAULT CHARACTER
 USE `restaurants`;
 
 /*Table structure for table `customers` */
-
+DROP TABLE IF EXISTS `ItemSection`;
 DROP TABLE IF EXISTS `MenuSection`;
 
 CREATE TABLE `MenuSection` (
