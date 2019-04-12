@@ -1,11 +1,11 @@
 # restAPI
 
-Pre-requisite<br/>
+<b>Pre-requisite</b><br/>
 1.MySQL for DB <br/>
 2.Postman for testing POST methods <br/>
 <br/>
 <br/>
-Instructions:<br/>
+<b>Instructions:</b><br/>
 1.Execute the mydatabase.sql file to create the restaurant database.<br/>
 2.Open command prompt or anaconda prompt(preferable). Open the directory where you have the API.py file. Run the file with command python API.py <br/>
 3.You will get the message on your prompt as - "Running on http://127.0.0.1:3000/" <br/>
