@@ -1,7 +1,7 @@
 # restAPI
 
 Pre-requisite
-1.MySQL for DB
+1.MySQL for DB \n
 2.Postman for testing POST methods 
 
 
